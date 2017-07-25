@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HongYun</string>
+    <string-array name="lengths">
+        <item>不限</item>
+        <item>1.2m</item>
+        <item>2.2m</item>
+        <item>3.2m</item>
+        <item>4.2m</item>
+        <item>5.2m</item>
+        <item>6.2m</item>
+        <item>7.2m</item>
+        <item>8.2m</item>
+        <item>9.2m</item>
+        <item>10.2m</item>
+        <item>11.2m</item>
+        <item>12.2m</item>
+        <item>13.2m</item>
+        <item>14.2m</item>
+        <item>15.2m</item>
+        <item>16.2m</item>
+    </string-array>
+    <string-array name="types">
+        <item>不限</item>
+        <item>平板</item>
+        <item>高栏</item>
+        <item>箱式</item>
+        <item>冷藏</item>
+        <item>高地板</item>
+        <item>危险品</item>
+    </string-array>
+</resources>
