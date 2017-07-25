@@ -69,7 +69,7 @@ public class CarActivity extends Activity {
                     int seletedPotision = myAdapter.getSeletedPotision();
                     int seletedPotision1 = myAdapter2.getSeletedPotision();
                     if(seletedPotision == -1){
-                        Toast.makeText(CarActivity.this, "请选择车长", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(CarActivity.this, "请选择车长xx", Toast.LENGTH_SHORT).show();
                         return;
                     }
                     if(seletedPotision1 == -1){
